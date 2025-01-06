@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction by Minute
+# Bitcoin Price Prediction by the Minute
 
 This project predicts the direction of Bitcoin's price movement at the minute level using machine learning models. The script implements Logistic Regression, Decision Tree, and Random Forest to classify whether the next price movement will be upward or downward.
 
